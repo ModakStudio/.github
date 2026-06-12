@@ -7,8 +7,6 @@
 대학생 개발자들이 모여 아이디어를 나누고,
 함께 문제를 해결하며 성장하는 개발팀입니다.
 
-<img src="https://github.com/ModakStudio.png" alt="Modak Studio Logo" />
-
 </div>
 
 ---
